@@ -1,16 +1,34 @@
-## Hi there 👋
+### Welcome to my corner of GitHub — I'm NotPrimeYk44 👋
 
-<!--
-**NotPrimeYk44/NotPrimeYk44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Malaysia.
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td valign="top" width="55%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- currently deep in lightweight tools
+- reading docs more than books lately
+- reach me at **@NotPrimeYk44** on GitHub
+
+<img src="https://img.shields.io/badge/FastAPI-39d353?style=for-the-badge&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/TypeScript-39d353?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQLite-39d353?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Python-39d353?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/React-39d353?style=for-the-badge&logoColor=white" alt="React" />
+
+</td>
+<td valign="top" width="45%">
+
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=NotPrimeYk44&theme=dark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NotPrimeYk44&hide_border=true&theme=dark" alt="Commit streak" />
+
+</td>
+</tr>
+</table>
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=NotPrimeYk44&hide_border=true&theme=minimal" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NotPrimeYk44&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" alt="NotPrimeYk44 GitHub stats" />
+
+---
+
+<img src="https://img.shields.io/github/followers/NotPrimeYk44?label=Followers&style=social" alt="Followers" /> <a href="https://github.com/NotPrimeYk44"><img src="https://img.shields.io/badge/GitHub-@NotPrimeYk44-39d353?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<sub>Still learning, still shipping.</sub>
